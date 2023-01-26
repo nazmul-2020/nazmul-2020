@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Nazmul Hasan
 #### Jr. Frontend Development
-![Jr. Frontend Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Jr. Frontend Development]https://github.com/nazmul-2020/nazmul-2020/blob/main/WhatsApp%20Image%202022-10-06%20at%2011.14.01%20PM.jpeg?raw=true
 
 
 Skills: REACT / JS / HTML / CSS
